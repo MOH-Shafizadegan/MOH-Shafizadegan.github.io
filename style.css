@@ -402,7 +402,10 @@ footer .glyphicon {
 backdrop-filter: blur(20px);
 border-radius: 20px;
 background-color: rgba(0,0,0,.2);
-padding: 20px;
-padding-left: 30px;
+margin-top: 40px;
+margin-right: 40px;
+padding: 30px;
+/* padding-left: 30px;
+padding-bottom: 30px; */
 box-shadow: 0 0px 50px 0 rgb(110,255,255);
 }
