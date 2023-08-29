@@ -411,9 +411,9 @@ box-shadow: 0 0px 50px 0 rgb(110,255,255);
 }
 
 .progress{
-    width: 150px;
-    height: 150px;
-    line-height: 150px;
+    width: 120px;
+    height: 120px;
+    line-height: 120px;
     background: none;
     margin: 0 auto;
     box-shadow: none;
@@ -474,9 +474,8 @@ box-shadow: 0 0px 50px 0 rgb(110,255,255);
     height: 90%;
     border-radius: 50%;
     background: #44484b;
-    font-size: 24px;
+    font-size: 18px;
     color: #fff;
-    line-height: 135px;
     text-align: center;
     position: absolute;
     top: 5%;
